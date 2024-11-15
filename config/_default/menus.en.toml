@@ -1,0 +1,12 @@
+
+[[main]]
+  name = "Posts"
+  pre = "comment"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Project"
+  pre = "comment"
+  pageRef = "projects"
+  weight = 20

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Space</title>
+    <link>http://localhost:4321/posts/</link>
+    <description>Recent content in Posts on The Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sebastinaromario.mg@gmail.com (Sebastian Martinez)</managingEditor>
+    <webMaster>sebastinaromario.mg@gmail.com (Sebastian Martinez)</webMaster>
+    <copyright>© 2024 Sebastian Martinez</copyright>
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desarrollo Web con HUGO y R: Tema Blowfish</title>
+      <link>http://localhost:4321/posts/myfirstpost/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <author>sebastinaromario.mg@gmail.com (Sebastian Martinez)</author>
+      <guid>http://localhost:4321/posts/myfirstpost/</guid>
+      <description>This is my first post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4321/posts/myfirstpost/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
